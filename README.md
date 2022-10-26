@@ -46,6 +46,12 @@ Most Used Languages
 
 Apaixonado por mudar a vida das pessoas através da tecnologia.
 
+![snake gif](https://github.com/ZzTheusBR/ZzTheusBR/blob/output/github-contribution-grid-snake.svg)
+
+<!--
+Fim
+-->
+
 <!--
 Sites:
 https://github.com/anuraghazra/github-readme-stats
