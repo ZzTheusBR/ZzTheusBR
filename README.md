@@ -2,7 +2,41 @@
 
 -->
 
-### Olá! Eu sou Matheus Barbosa 👋
+## Olá! Eu sou Matheus Barbosa 👋
+
+<!--
+GitHub stats
+Most Used Languages
+-->
+
+<div align="center">
+  <a href="https://github.com/ZzTheusBR">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ZzTheusBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzTheusBR&layout=compact&langs_count=16&theme=dracula"/>
+<div/>
+ 
+<!-- 
+Outra alternativa para GitHub stats e Most Used Languages
+
+<div align="center">
+  <a href="https://github.com/ZzTheusBR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZzTheusBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzTheusBR&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+-->
+
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+  
+<!--
+<div style="display: inline_block"><br/>
+  <img align="center" alt="name" src="badge"/>
+</div><br/>
+-->
+
+##
 
 <!--
 [![name](badge)](site)
@@ -12,17 +46,6 @@
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/zztheusbr)
 
 <!--
-GitHub stats
-Most Used Languages
--->
-
-<div>
-  <a href="https://github.com/ZzTheusBR">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ZzTheusBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzTheusBR&layout=compact&langs_count=16&theme=dracula"/>
-<div/>
-
-<!--
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=ZzTheusBR&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZzTheusBR)](https://github.com/ZzTheusBR/github-readme-stats)
 -->
@@ -30,20 +53,7 @@ Most Used Languages
 <!--
 ## Tecnologias que eu utilizo
 -->
-
-## Tecnologias que estou aprendendo
-
-<!--
-<div style="display: inline_block"><br/>
-  <img align="center" alt="name" src="badge"/>
-</div><br/>
--->
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</div><br/>
-
+    
 Apaixonado por mudar a vida das pessoas através da tecnologia.
 
 ![snake gif](https://github.com/ZzTheusBR/ZzTheusBR/blob/output/github-contribution-grid-snake.svg)
@@ -57,6 +67,7 @@ Sites:
 https://github.com/anuraghazra/github-readme-stats
 https://dev.to/envoy_/150-badges-for-github-pnk#office
 https://emojipedia.org/
+https://devicon.dev/
 -->
 
 <!--
