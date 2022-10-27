@@ -2,6 +2,12 @@
 
 -->
 
+<!--
+<div align="center"><div/>
+-->
+
+<div align="center"><div/>
+
 ## Olá! Eu sou Matheus Barbosa 👋
 
 <!--
@@ -9,7 +15,7 @@ GitHub stats
 Most Used Languages
 -->
 
-<div align="center">
+<div>
   <a href="https://github.com/ZzTheusBR">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ZzTheusBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzTheusBR&layout=compact&langs_count=16&theme=dracula"/>
@@ -26,6 +32,7 @@ Outra alternativa para GitHub stats e Most Used Languages
 -->
 
 <div style="display: inline_block"><br>
+  Aprendendo
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
