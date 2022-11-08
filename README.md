@@ -3,6 +3,7 @@
 -->
 
 <!--
+//Centralização
 <div align="center"><div/>
 -->
 
@@ -21,9 +22,8 @@ Most Used Languages
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzTheusBR&layout=compact&langs_count=16&theme=dracula"/>
 <div/>
  
-<!-- 
-Outra alternativa para GitHub stats e Most Used Languages
-
+<!--
+//Outra alternativa para GitHub stats e Most Used Languages
 <div align="center">
   <a href="https://github.com/ZzTheusBR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZzTheusBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -49,8 +49,8 @@ Outra alternativa para GitHub stats e Most Used Languages
 [![name](badge)](site)
 -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-barbosa-pereira-601611227/)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/zztheusbr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusbarbosapereira/)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/matheusbarbosapereira)
 
 <!--
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=ZzTheusBR&show_icons=true&theme=dracula)
@@ -60,8 +60,12 @@ Outra alternativa para GitHub stats e Most Used Languages
 <!--
 ## Tecnologias que eu utilizo
 -->
-    
+
+<!--
 Apaixonado por mudar a vida das pessoas através da tecnologia.
+-->
+
+## Entusiasta por Tecnologia
 
 ![snake gif](https://github.com/ZzTheusBR/ZzTheusBR/blob/output/github-contribution-grid-snake.svg)
 
