@@ -2,14 +2,11 @@
 
 -->
 
-<!--
-//Centralização
-<div align="center"><div/>
--->
-
 <div align="center"><div/>
 
-## Olá! Eu sou Matheus Barbosa 👋
+### Olá! Eu sou Matheus Barbosa 👋
+##
+###
 
 <!--
 GitHub stats
@@ -21,14 +18,11 @@ Most Used Languages
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ZzTheusBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzTheusBR&layout=compact&langs_count=16&theme=dracula"/>
 <div/>
- 
+
 <!--
-//Outra alternativa para GitHub stats e Most Used Languages
-<div align="center">
-  <a href="https://github.com/ZzTheusBR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZzTheusBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzTheusBR&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<div style="display: inline_block"><br/>
+  <img align="center" alt="name" src="badge"/>
+</div><br/>
 -->
 
 <div style="display: inline_block"><br>
@@ -36,14 +30,9 @@ Most Used Languages
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
-  
-<!--
-<div style="display: inline_block"><br/>
-  <img align="center" alt="name" src="badge"/>
-</div><br/>
--->
 
 ##
+###
 
 <!--
 [![name](badge)](site)
@@ -65,7 +54,8 @@ Most Used Languages
 Apaixonado por mudar a vida das pessoas através da tecnologia.
 -->
 
-## Entusiasta por Tecnologia
+### Entusiasta por Tecnologia
+##
 
 ![snake gif](https://github.com/ZzTheusBR/ZzTheusBR/blob/output/github-contribution-grid-snake.svg)
 
