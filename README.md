@@ -13,6 +13,11 @@ GitHub stats
 Most Used Languages
 -->
 
+<!--
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=ZzTheusBR&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZzTheusBR&show_icons=true&theme=dracula)](https://github.com/ZzTheusBR/github-readme-stats)
+-->
+
 <div>
   <a href="https://github.com/ZzTheusBR">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ZzTheusBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -41,20 +46,8 @@ Most Used Languages
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusbarbosapereira/)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/matheusbarbosapereira)
 
-<!--
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=ZzTheusBR&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZzTheusBR)](https://github.com/ZzTheusBR/github-readme-stats)
--->
+Entusiasta por Tecnologia
 
-<!--
-## Tecnologias que eu utilizo
--->
-
-<!--
-Apaixonado por mudar a vida das pessoas através da tecnologia.
--->
-
-### Entusiasta por Tecnologia
 ##
 
 ![snake gif](https://github.com/ZzTheusBR/ZzTheusBR/blob/output/github-contribution-grid-snake.svg)
